@@ -1,0 +1,1 @@
+import{bf as s}from"./PXc6wT8l.js";function e({pageNO:e=1,pageSize:a=10,user_ids:i=[],sort:r="balance_usd",sort_dir:d="desc",hide_risk:o=1,hide_small:t=0}){const{$api:p}=s();return p("/v2api/user_balance/v1/swap/balance",{method:"post",body:{user_ids:i,sort:r,sort_dir:d,pageSize:a,pageNO:e,hide_risk:o,hide_small:t}})}export{e as g};
