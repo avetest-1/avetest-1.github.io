@@ -1,0 +1,1 @@
+import{kU as a,r as e,m as n}from"./DR2f72Yr.js";function o(o,s){const i=a(),t=e(null),l=s||3e5;n(i,(a=>{if("hidden"===a&&(t.value=Date.now()),"visible"===a){Date.now()-(t.value||0)>l&&o()}}))}export{o as u};
