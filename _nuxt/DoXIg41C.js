@@ -1,0 +1,1 @@
+import{ib as t,co as o}from"./BWR6bTjW.js";const e={install(e){t._context=e._context,o._context=e._context,e.directive("loading",o),e.config.globalProperties.$loading=t},directive:o,service:t};export{e as E};
