@@ -1,0 +1,1 @@
+import{t as s,xn as e}from"./COrudnLr.js";function n(){const n=e(),r=s();return n.address||r.evmAddress||""}function r(){const n=e(),r=s();return!n.address&&!!r.evmAddress&&!!r.accessToken}export{r as n,n as t};

@@ -1,0 +1,1 @@
+import{xl as a}from"./COrudnLr.js";var o=a("/icon-default.png");export{o as t};

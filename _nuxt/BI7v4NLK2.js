@@ -1,0 +1,1 @@
+import"./COrudnLr.js";var e=""+new URL("avedex_mobile_logo.BVu0tlq0.png",import.meta.url).href;export{e as t};

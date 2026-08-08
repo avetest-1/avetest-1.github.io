@@ -1,0 +1,1 @@
+import{Gt as e,hl as i}from"./COrudnLr.js";var t=i("favToken",()=>{const i=e({prefix:"favToken",defaultFixedWidth:280});return{...i,visible:i.visible,favTokenBoundingRect:i.boundingRect}});export{t};

@@ -1,0 +1,1 @@
+import{oc as n}from"./COrudnLr.js";import"./DzX51ouI.js";function t(n){const t=n.toString();return t.includes(".")?t.length-t?.indexOf?.(".")-1:0}function o(o){const e=new n(o||0);return e.gt(1)?-t(new n(1).div(e)):t(e)}n.set({DECIMAL_PLACES:34,ROUNDING_MODE:n.ROUND_HALF_UP});export{t as n,o as t};
