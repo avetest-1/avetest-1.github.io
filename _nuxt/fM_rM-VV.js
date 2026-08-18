@@ -1,0 +1,1 @@
+import{Jl as a}from"./vHpCAHF2.js";var o=a("/download/frame-1.svg");export{o as t};

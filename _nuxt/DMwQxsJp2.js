@@ -1,0 +1,1 @@
+import{At as t,Kt as a,Lt as s,tt as o}from"./AP4xXb4v.js";import{qc as e}from"./vHpCAHF2.js";function n(s,o){const n=e(),i=a(null),l=o||3e5;t(n,t=>{"hidden"===t&&(i.value=Date.now()),"visible"===t&&Date.now()-(i.value||0)>l&&s()})}s(),o();export{n as t};

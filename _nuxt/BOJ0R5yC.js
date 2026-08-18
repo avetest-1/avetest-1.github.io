@@ -1,0 +1,1 @@
+import{Hl as e,Mn as i}from"./vHpCAHF2.js";var n=e("favToken",()=>{const e=i({prefix:"favToken",defaultFixedWidth:280});return{...e,visible:e.visible,favTokenBoundingRect:e.boundingRect}});export{n as t};
