@@ -1,0 +1,1 @@
+import{mu as a}from"./DMHYqsyw.js";var o=a("/download/frame-1.svg");export{o as t};

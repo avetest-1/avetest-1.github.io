@@ -1,0 +1,1 @@
+import{mu as a}from"./DMHYqsyw.js";var o=a("/icon-default.png");export{o as t};
