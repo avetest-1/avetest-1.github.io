@@ -1,0 +1,1 @@
+import{Rt as e,jt as s,nn as t,tt as a}from"./DDNkh4e6.js";import{b as r}from"./nzUaj-RL.js";a(),e();var i=({from:e,replacement:a,scope:i,version:o,ref:m,type:n="API"},p)=>{s(()=>t(p),s=>{s&&r(i,`[${n}] ${e} is about to be deprecated in version ${o}, please use ${a} instead.\nFor more detail, please visit: ${m}\n`)},{immediate:!0})};export{i as t};
