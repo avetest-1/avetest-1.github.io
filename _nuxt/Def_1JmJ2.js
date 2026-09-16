@@ -1,0 +1,1 @@
+import{Jt as i,os as o}from"./Dw520CmQ.js";var t=o("position",()=>{const o=i({prefix:"position",defaultFixedWidth:300});return{...o,visible:o.visible,positionBoundingRect:o.boundingRect}});export{t};
