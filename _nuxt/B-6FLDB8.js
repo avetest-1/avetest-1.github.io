@@ -1,0 +1,1 @@
+var u=/[\u0000-\u001F\u007F-\u009F\u00AD\u200B-\u200F\u2028\u2029\u202A-\u202E\u2060-\u2064\uFEFF]/,e=new RegExp(u.source,"g");function r(u){return u.replace(e," ").replace(/ {2,}/g," ").trim()}export{r as n,u as t};

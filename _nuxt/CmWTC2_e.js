@@ -1,0 +1,1 @@
+import{g as e,y as r}from"./DosEILST.js";var a=r(()=>e("noReminderQuickBuy",!1)),i=r(()=>e("noReminderQuickSell",!1));export{i as n,a as t};
