@@ -1,0 +1,1 @@
+async function t(t){for(let e=0;e<150;e++){await new Promise(t=>setTimeout(t,2e3));const e=await t();if("wait"!==e)return e}return"timeout"}export{t};
